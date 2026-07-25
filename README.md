@@ -1,4 +1,4 @@
-# NoahMP Related Code
+# NoahMP Forcing scripts
 
 This repository contains scripts and utilities for working with NoahMP land surface model.
 
